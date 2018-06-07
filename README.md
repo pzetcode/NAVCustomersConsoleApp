@@ -1,5 +1,5 @@
 # NAVCustomersConsoleApp
-Console app for consuming NAV customer data using ODataV4.
+C# console app for consuming NAV customer data using ODataV4.
 ### Requirements:
 * Microsoft Dynamics NAV 2017 with a developer license
 * CRONUS International Ltd. demonstration database.
