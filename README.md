@@ -2,7 +2,7 @@
 C# console app for consuming NAV customer data using ODataV4.
 ### Requirements:
 * Microsoft Dynamics NAV 2017 with a developer license
-* CRONUS International Ltd. demonstration database.
+* CRONUS International Ltd. demonstration database
 * Visual Studio Community 2017 or higher
 * OData Client Code Generator 
 ### References:
